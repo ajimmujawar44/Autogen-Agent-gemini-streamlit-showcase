@@ -12,6 +12,10 @@ A collection of Streamlit demos exploring Microsoft AutoGen agents with Google's
 - `ag_gemini.py` — a command-line Gemini and AutoGen connectivity example.
 - `autogen_testing.py` — a small AutoGen API test.
 
+## Screenshots
+
+The `screenshots/` folder contains example captures of the Streamlit demos and their outputs.
+
 ## Setup
 
 Use Python 3.11 or newer. From the project directory, create and activate a virtual environment, then install the dependencies:
