@@ -1,0 +1,17 @@
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+
+# Python environments and generated files
+.conda/
+myenv/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local editor and generated artifacts
+.vscode/
+screenshots/
+ag_gemini_output.txt
